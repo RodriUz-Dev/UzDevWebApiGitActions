@@ -1,0 +1,6 @@
+@UzDevWebApi_HostAddress = http://localhost:5121
+
+GET {{UzDevWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
